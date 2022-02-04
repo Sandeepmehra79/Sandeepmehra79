@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sandeepmehra79
-- 👀 I’m interested in Powershell / shell /bash scripting
+- 👀 I’m interested in Powershell / shell /bash scripting / Python
 - 🌱 I’m currently learning bash scripting
 - 💞️ I’m looking to collaborate on bash scripting
 - 📫 How to reach me ... sadeepmehra79@gmail.com / +919897421174
